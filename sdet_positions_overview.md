@@ -1,40 +1,16 @@
-<!-----
-
-
-
-Conversion time: 1.573 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β35
-* Wed Dec 27 2023 06:32:08 GMT-0800 (PST)
-* Source doc: SDET Positions hierarchy
------>
-
-
+<!-- markdownlint-disable MD013 -->
 
 # Positions and responsibilities overview
 
-Based on: [https://dropbox.github.io/dbx-career-framework/ic2_sdet.html](https://dropbox.github.io/dbx-career-framework/ic2_sdet.html)
+Based on: [dropbox career framework](https://dropbox.github.io/dbx-career-framework/ic2_sdet.html)
 
 Terms used:
 
-
-
-* “Customer” - means either product customer or the ‘internal’ customer, i.e. company employee using internal products and/or frameworks maintained by the SDET team
-* “SEV” - short form of the “Severity”:
-    * We define a SEV (severity) 1 incident as “a critical incident with very high impact.” This could include a customer data loss, a security breach, or when a client-facing service is down for all customers.  
-    * A SEV 2 incident is a “major incident with significant impact,” including when a client-facing service is down for a sub-set of customers or a critical function within a system is not functioning.
-    * And a SEV 3 incident is “a minor incident with low impact,” such as a system glitch that is causing customers slight inconvenience. 
-
+* "Customer" - means either product customer or the 'internal' customer, i.e. company employee using internal products and/or frameworks maintained by the SDET team
+* "SEV" - short form of the "Severity":
+  * We define a SEV (severity) 1 incident as "a critical incident with very high impact." This could include a customer data loss, a security breach, or when a client-facing service is down for all customers.
+  * A SEV 2 incident is a "major incident with significant impact," including when a client-facing service is down for a sub-set of customers or a critical function within a system is not functioning.
+  * And a SEV 3 incident is "a minor incident with low impact," such as a system glitch that is causing customers slight inconvenience.
 
 ## 2.1 SDET engineer
 
@@ -42,39 +18,28 @@ Terms used:
 
 **Scope** _Area of ownership and level of autonomy / ambiguity_
 
-
-
-1. I execute on defined projects to achieve team-level goals.
-2. I am able to use existing approaches to solve defined problems.
-3. I independently define the solution proposals, PoCs to solve defined problems.
+* [ ] I execute on defined projects to achieve team-level goals.
+* [ ] I am able to use existing approaches to solve defined problems.
+* [ ] I independently define the solution proposals, PoCs to solve defined problems.
 
 **Collaborative Reach** _Organizational reach and extent of influence_
 
-
-
-1. I work primarily within the scope of my team with high level guidance from my manager/TL
+[] I work primarily within the scope of my team with high level guidance from my manager/TL
 
 **Impact Levers** _Technical levers typically exercised to achieve business impact_
 
-
-
-1. Craft - I am increasingly mastering my craft and leverage it for higher impact (e.g. software design)
-
+[] Craft - I am increasingly mastering my craft and leverage it for higher impact (e.g. software design)
 
 ### 🏆 Results
 
 **Impact**
 
-
-
-1. I have a bias for actions, act with urgency and deliver high-quality work that will add the most value for our business, cross-functional stakeholders, and customers
-2. I work with my manager to direct my focus so my work advances my team's goals
-3. I prioritize the right things and don't overcomplicate my work. When necessary, I propose appropriate scope adjustments.
-4. I effectively participate in the core processes of my team, including recommending and implementing process improvements
+[] I have a bias for actions, act with urgency and deliver high-quality work that will add the most value for our business, cross-functional stakeholders, and customers
+[] I work with my manager to direct my focus so my work advances my team's goals
+[] I prioritize the right things and don't overcomplicate my work. When necessary, I propose appropriate scope adjustments.
+[] I effectively participate in the core processes of my team, including recommending and implementing process improvements
 
 **Ownership**
-
-
 
 1. I follow through on my commitments, take responsibility for my work, and deliver on time
 2. I own my decisions and mistakes, and learn from them
