@@ -31,7 +31,7 @@ Terms used:
 * :ballot_box_with_check: means personal requirement is declared but not achieved yet
 * :white_check_mark: means personal requirement is declared and achieved
 
-## 2.1 SDET engineer
+## 2.1 SDET Engineer / Middle / P2
 
 **_I am prolific at delivering resilient and sustainable software projects from PoC to implementation and rollout_**
 
@@ -134,7 +134,7 @@ Terms used:
 * :ballot_box_with_check: My focus is primarily on executing a quality management approach against functional requirements within existing test/automation strategies and frameworks, I ensure high code quality in features I evaluate.
 * :ballot_box_with_check: Working with more senior engineers I’m able to decompose problems and business scenarios into quality management solutions.
 
-## 2.2 Experienced SDET engineer
+## 2.2 Experienced SDET Engineer / Upper-middle / P3
 
 **_I independently identify and deliver software solutions through a set of milestones spanning a specific product focus or a multi-component system_**
 
@@ -279,7 +279,7 @@ Terms used:
 
 * :ballot_box_with_check: From time to time i participate in a  listening sessions (All Hands, Quarterly Business Updates, etc.) to increase my learning and guide my work/priorities
 
-## 3. Senior SDET engineer
+## 3. Senior SDET engineer / Senior / P4
 
 **_I autonomously deliver ongoing business impact across a team, product capability, or technical system_**
 
@@ -442,7 +442,7 @@ Terms used:
 * :ballot_box_with_check: I engage in listening sessions (All Hands, Quarterly Business Updates, etc.) to increase my learning and guide my work/priorities
 * :ballot_box_with_check: I have a working knowledge of company org/team structure and how teams work together across company, and i am able to help my team collaborate effectively with other teams across our org
 
-## 4. Staff/ Principal /Team lead SDET engineer
+## 4. Staff / Principal / Team lead SDET Engineer
 
 **_I set the annual, multi-team technical strategy and deliver it through direct implementation or broad technical leadership_**
 
